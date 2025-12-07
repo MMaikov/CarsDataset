@@ -1,2 +1,6 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.pickle filter=lfs diff=lfs merge=lfs -text
+xgb_engine_aspiration_model.json filter=lfs diff=lfs merge=lfs -text
+xgb_fuel_injection_system_model.json filter=lfs diff=lfs merge=lfs -text
+xgb_fuel_model.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
